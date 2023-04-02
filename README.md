@@ -20,4 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vincuska&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Buy me a coffee?](https://www.buymeacoffee.com/vincu)
+[![Buy me a coffee?](https://indify.co/widgets/live/button/eXhLSm5pyxvKj6QGfYDx)]((https://www.buymeacoffee.com/vincu))

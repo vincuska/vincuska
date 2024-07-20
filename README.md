@@ -6,4 +6,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincuska&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=vincuska&color=4493f8)
+![](https://komarev.com/ghpvc/?username=vincuska&color=4493f8&style=for-the-badge)

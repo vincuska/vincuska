@@ -25,8 +25,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/vincuska/vincuska/output/snake.svg" alt="Snake animation" />
 
 ###
